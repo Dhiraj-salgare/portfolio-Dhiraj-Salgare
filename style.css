@@ -28,7 +28,7 @@ body{
 
 
 nav h1{
-    font-size:35px;
+    font-size:2rem;
     font-weight: 900;
 }
 nav h1 span{
@@ -409,6 +409,11 @@ form .btn2{
     }
     #about{
         margin-top: 3px;
+    }
+
+    .tabs{
+        display: flex;
+        margin:10px 0px 40px;
     }
     
 
