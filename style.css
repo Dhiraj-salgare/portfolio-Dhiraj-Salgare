@@ -401,6 +401,12 @@ form .btn2{
         
     }
 
+    .block{
+        animation: scaleup linear;
+        animation-timeline: view();
+        animation-range: entry 0 cover 40%;    /*only entry 0 will ok*/
+    }
+
 
     .pic{
         margin-top: 50px;
