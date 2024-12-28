@@ -420,13 +420,13 @@ form .btn2{
         
     }
 
-    .block{
+/*     .block{
         animation: scaleup linear;
         animation-timeline: view();
         animation-range: entry 0 cover 40%;
         position: relative;
             /*only entry 0 will ok*/
-    }
+    } */
 
 
    
