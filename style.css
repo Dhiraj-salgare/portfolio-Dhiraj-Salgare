@@ -209,13 +209,13 @@ nav ul li a:hover::after{
 @keyframes scaleup{
     from{
         opacity: 0;
-        scale: 0.5;
+        transform: translateX(-100px);
         /* transform:translateX(-100px);      we can add transale */
     }
 
     to {
         opacity: 1;
-         scale: 1; 
+        transform: translateX(0);
         /* transform: translateX(0px); */
     }
 }
